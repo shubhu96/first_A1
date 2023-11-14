@@ -1,1 +1,2 @@
 this is the second page push  
+git pull command used for the global to local 
