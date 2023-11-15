@@ -7,3 +7,5 @@ git branch branch1
 git checkout 
 
 git status
+
+git commit -m "hello merge branch"
