@@ -7,3 +7,7 @@ git branch branch1
 git checkout 
 
 git status
+
+git merge branch1
+
+git branch -d branchname
