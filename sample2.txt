@@ -1,2 +1,9 @@
 this is the second page push  
 git pull command used for the global to local 
+
+create branch 
+git branch branch1
+
+git checkout 
+
+git status
