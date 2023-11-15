@@ -4,14 +4,23 @@ git pull command used for the global to local
 create branch 
 git branch branch1
 
-git checkout 
+git checkout
 
 git status
 
 
 git merge branch1
 
+
 git branch -d branchn
 git commit -m "hello merge branch"
 
 india ....work good in world cup
+
+git branch -d branchname
+
+git commit -m "hello merge branch"
+
+india set the target 398 . 
+
+
