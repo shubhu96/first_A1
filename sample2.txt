@@ -4,7 +4,7 @@ git pull command used for the global to local
 create branch 
 git branch branch1
 
-git checkout 
+git checkout
 
 git status
 
